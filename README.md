@@ -1,5 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### TEMPLATE TERMINAL SET UP COMMANDS:
+# npm init react-app simple_template
+# cd .\simple_template\
+# npm install --save react-router
+# npm install --save react-router-dom
+# npm install react-bootstrap bootstrap
+# npm install --save styled-components
+# see, https://www.youtube.com/watch?v=tOK9l5uP06U
+# npm start !!! check it works...
+# 
+
+
 ## Available Scripts
 
 In the project directory, you can run:
